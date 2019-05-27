@@ -2,7 +2,7 @@
 Restructure the lv-bookstore application (provided in Lab 3A) based on the HTML5 standard. Enhance the application by using CSS3, jQuery and AJAX. Implement an AJAX book search function with results displayed in a locally-sortable HTML table. Enable user authentication and implement a BookRequest module for authenticated users to request books. Data validation must be performed during the form submission at the server side.
 
 # Technologies Used
-* Front End: HTML5/CSS3/JavaScript/Ajax/JSON/XML/jQuery
+* Front End: HTML5/CSS3/JavaScript/Ajax/jQuery
 * PHP Web Framework: Laravel
 * Server: Apache HTTP Server
 * Database: MySQL
